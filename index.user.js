@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Jira external Links
-// @version       0.1
+// @version       0.2
 // @description   Jira external links in a new tab
 // @namespace     https://github.com/jivoy1988/
 // @match         https://*.atlassian.net/*
