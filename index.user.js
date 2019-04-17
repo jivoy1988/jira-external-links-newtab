@@ -3,7 +3,7 @@
 // @version       0.1
 // @description   Jira external links in a new tab
 // @namespace     https://github.com/jivoy1988/
-// @match         https://*.atlassian.net/jira/*
+// @match         https://*.atlassian.net/*
 // @author        jivoy1988
 // @updateURL     https://raw.githubusercontent.com/jivoy1988/jira-external-links-newtab/master/index.user.js
 // @downloadURL   https://raw.githubusercontent.com/jivoy1988/jira-external-links-newtab/master/index.user.js
